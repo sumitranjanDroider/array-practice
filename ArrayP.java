@@ -13,7 +13,7 @@ class ArrayP{
     //While Loop 
     int i=0;
     while(i<arr.length){
-     System.out.println(i);
+     System.out.println("Index of Value "+arr[i]+"is "+i);
       i++;
     }
 }
