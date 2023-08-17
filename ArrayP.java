@@ -8,7 +8,7 @@ class ArrayP{
 //For each
     for(int value:arr){
   
-     System.out.println(value);
+     System.out.println("Index Is not available only value "+value);
     }
 }
 }
