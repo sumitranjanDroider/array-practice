@@ -10,5 +10,11 @@ class ArrayP{
   
      System.out.println("Index Is not available only value "+value);
     }
+    //While Loop 
+    int i=0;
+    while(i<arr.length){
+     System.out.println(i);
+      i++;
+    }
 }
 }
